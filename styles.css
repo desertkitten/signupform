@@ -1,4 +1,10 @@
-    /* General Reset */
+/* Font */
+@font-face {
+  font-family: 'NorseBold';
+  src: url('./fonts/NorseBold.ttf') format('truetype');
+}
+
+/* General Reset */
 
 * {
     margin: 0;
@@ -34,6 +40,7 @@ body {
 }
 
 .logo {
+    font-family: 'norsebold', sans-serif;
     display: flex;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.308);

@@ -74,7 +74,6 @@ body {
     }
 }
 
-
 /* Content Section */
 
 .content-section {
@@ -86,7 +85,9 @@ body {
     justify-content: center;
     gap: 30px;
     font-weight: bold;
+  
     /* Form Container */
+  
     .form-container {
         background-color: rgba(255, 255, 255, 0.9);
         border-radius: 10px;
@@ -96,12 +97,16 @@ body {
         max-width: 400px;
         text-align: center;
     }
+  
     /* Heading */
+  
     .form-container h1 {
         margin-bottom: 20px;
         color: #333;
     }
+  
     /* Form Labels */
+  
     form label {
         display: block;
         text-align: left;
@@ -109,7 +114,9 @@ body {
         font-weight: bold;
         color: #555;
     }
+  
     /* Form Inputs */
+  
     form input {
         width: 100%;
         padding: 10px;
@@ -118,7 +125,9 @@ body {
         border-radius: 5px;
         font-size: 14px;
     }
+  
     /* Checkbox Group */
+  
     .checkbox-group {
         display: flex;
         align-items: center;
@@ -129,7 +138,9 @@ body {
     .checkbox-group input {
         width: auto;
     }
+  
     /* Button */
+  
     .btn {
         background-color: #596D48;
         color: white;
@@ -143,7 +154,9 @@ body {
     .btn:hover {
         background-color: #4a5d3c;
     }
+  
     /* Focus States */
+  
     form input:focus {
         border-color: blue;
         box-shadow: 0 0 5px rgba(0, 0, 255, 0.3);

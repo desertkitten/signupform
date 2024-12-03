@@ -1,7 +1,7 @@
 /* Font */
 @font-face {
   font-family: 'NorseBold';
-  src: url('Norse-Bold.otf') format('truetype');
+  src: url('./fonts/Norse-Bold.otf') format('truetype');
 }
 
 /* General Reset */

@@ -23,12 +23,11 @@ body {
     height: 100vh;
 }
 
+/* Logo */
+
 .container {
     display: flex;
 }
-
-
-/* Logo */
 
 .left-section {
     width: 35vw;

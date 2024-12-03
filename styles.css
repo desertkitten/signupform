@@ -1,3 +1,10 @@
+/* Smaller Screens */
+@media (max-width: 600px) {
+  .sign-up-form {
+    grid-template-columns: 1fr; /* One column layout */
+  }
+}
+
 /* Font */
 @font-face {
   font-family: 'NorseBold';

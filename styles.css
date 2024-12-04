@@ -88,36 +88,7 @@ body {
     gap: 30px;
     font-weight: bold;
   
-    /* Form Container */
-  
-    .form-container {
-        background-color: rgba(255, 255, 255, 0.9);
-        border-radius: 10px;
-        padding: 20px 30px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        width: 100%;
-        max-width: 400px;
-        text-align: center;
-    }
-  
-    /* Heading */
-  
-    .form-container h1 {
-        margin-bottom: 20px;
-        color: #333;
-    }
-  
-    /* Form Labels */
-  
-    form label {
-        display: block;
-        text-align: left;
-        margin-bottom: 5px;
-        font-weight: bold;
-        color: #555;
-    }
-  
-    /* Form Inputs */
+    /* Form */
   
     .sign-up-form {
         display: grid;
